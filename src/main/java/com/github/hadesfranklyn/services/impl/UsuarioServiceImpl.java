@@ -2,10 +2,10 @@ package com.github.hadesfranklyn.services.impl;
 
 import java.util.Optional;
 
-import javax.transaction.Transactional;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
 
 import com.github.hadesfranklyn.exception.ErroAutenticacaoException;
 import com.github.hadesfranklyn.exception.RegraNegocioException;

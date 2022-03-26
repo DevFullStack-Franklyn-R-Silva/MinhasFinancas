@@ -1,4 +1,4 @@
-package com.github.hadesfranklyn.controller;
+package com.github.hadesfranklyn.api.controllers;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
